@@ -99,7 +99,7 @@
     <string name="ok" msgid="163967937451981024">"ठिक छ"</string>
     <string name="phone_type_and_phone_number" msgid="5034188169563878371">"<xliff:g id="PHONE_TYPE">%1$s</xliff:g> • <xliff:g id="PHONE_NUMBER">%2$s</xliff:g>"</string>
     <string name="no_info_provided" msgid="716200382010821001">"यस फोनको मालिक बारे कुनै जानकारी छैन"</string>
-    <string name="tap_pencil" msgid="3429817710241457947">"आपत्कालीन स्थितिमा यहाँ देखाइने जानकारी हाल्न आफ्नो फोन अनलक गर्नुहोस् र पेन्सिल जनाउने आइकनमा ट्याप गर्नुहोस्"</string>
+    <string name="tap_pencil" msgid="3429817710241457947">"आपत्‌कालीन स्थितिमा यहाँ देखाइने जानकारी हाल्न आफ्नो फोन अनलक गर्नुहोस् र पेन्सिल जनाउने आइकनमा ट्याप गर्नुहोस्"</string>
     <string name="clear_all" msgid="8899013032870561633">"सबै हटाउनुहोस्"</string>
     <string name="clear" msgid="3648880442502887163">"खाली गर्नुहोस्"</string>
     <string name="clear_all_message" msgid="1548432000373861295">"सबै जानकारी र सम्पर्कहरूलाई मेटाउने हो?"</string>
