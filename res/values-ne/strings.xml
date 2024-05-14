@@ -91,7 +91,7 @@
     <string name="add_emergency_contact" msgid="4063577069613981029">"कन्ट्याक्ट हाल्नुहोस्"</string>
     <string name="fail_load_contact_picker" msgid="817205483833876726">"सम्पर्क ठेगानाहरूको चयनकर्ता भेट्टाउन सकिएन"</string>
     <string name="fail_display_contact" msgid="4128854688897045879">"उक्त सम्पर्क देखाउन सकिँदैन"</string>
-    <string name="remove_contact" msgid="6934983445723096759">"<xliff:g id="CONTACT_NAME">%1$s</xliff:g> लाई आपत्‌कालीन सम्पर्कहरूबाट हटाउने हो?"</string>
+    <string name="remove_contact" msgid="6934983445723096759">"<xliff:g id="CONTACT_NAME">%1$s</xliff:g> लाई आपत्‌कालीन कन्ट्याक्टबाट हटाउने हो?"</string>
     <string name="remove_contact_icon_text" msgid="4576641386490101363">"सम्पर्कलाई हटाउनुहोस्"</string>
     <string name="fail_add_contact" msgid="6511490846952942291">"सम्पर्कको जानकारी राम्ररी पढ्न सकिएन"</string>
     <string name="remove" msgid="1243949503772376064">"हटाउनुहोस्"</string>
