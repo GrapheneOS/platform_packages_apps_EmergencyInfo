@@ -71,7 +71,7 @@
     <string name="ab_positive" msgid="1931300033534642005">"AB 型阳性"</string>
     <string name="ab_negative" msgid="2064555613093591729">"AB 型阴性"</string>
     <string name="h_h" msgid="2183333409760379720">"HH 型"</string>
-    <string name="allergies" msgid="2789200777539258165">"过敏症"</string>
+    <string name="allergies" msgid="2789200777539258165">"过敏反应"</string>
     <string name="unknown_allergies" msgid="4383115953418061237">"未知"</string>
     <string name="allergies_hint" msgid="5488918780522184147">"例如，花生"</string>
     <string name="medications" msgid="644428945685557183">"用药"</string>
