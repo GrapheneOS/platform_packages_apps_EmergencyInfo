@@ -87,7 +87,7 @@
     <!-- no translation found for organ_donor_entries:0 (4680498266537823362) -->
     <!-- no translation found for organ_donor_entries:1 (4906312680266515592) -->
     <!-- no translation found for organ_donor_entries:2 (9037713957399818892) -->
-    <string name="emergency_contacts_title" msgid="5462202017417821030">"জরুরি পরিচিতিগুলি"</string>
+    <string name="emergency_contacts_title" msgid="5462202017417821030">"জরুরি পরিচিতি"</string>
     <string name="add_emergency_contact" msgid="4063577069613981029">"পরিচিতি যোগ করুন"</string>
     <string name="fail_load_contact_picker" msgid="817205483833876726">"কোন পরিচিতি চয়নকারি খুঁজে পাওয়া যায়নি"</string>
     <string name="fail_display_contact" msgid="4128854688897045879">"পরিচিতিটি দেখানো যাবে না"</string>
