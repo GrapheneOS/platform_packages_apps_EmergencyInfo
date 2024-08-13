@@ -64,13 +64,13 @@
     <!-- no translation found for blood_type_content_description:9 (1362921785855892976) -->
     <string name="o_positive" msgid="5944181307873488422">"O positive"</string>
     <string name="o_negative" msgid="5261178297066132923">"O negative"</string>
-    <string name="a_positive" msgid="160635169929713435">"A positive"</string>
-    <string name="a_negative" msgid="6680390511183224469">"A negative"</string>
+    <string name="a_positive" msgid="160635169929713435">"A, positive"</string>
+    <string name="a_negative" msgid="6680390511183224469">"A, negative"</string>
     <string name="b_positive" msgid="8225619238000785345">"B positive"</string>
     <string name="b_negative" msgid="4110646487598488955">"B negative"</string>
-    <string name="ab_positive" msgid="1931300033534642005">"AB positive"</string>
-    <string name="ab_negative" msgid="2064555613093591729">"AB negative"</string>
-    <string name="h_h" msgid="2183333409760379720">"HH"</string>
+    <string name="ab_positive" msgid="1931300033534642005">"A B positive"</string>
+    <string name="ab_negative" msgid="2064555613093591729">"A B negative"</string>
+    <string name="h_h" msgid="2183333409760379720">"H H"</string>
     <string name="allergies" msgid="2789200777539258165">"Allergies"</string>
     <string name="unknown_allergies" msgid="4383115953418061237">"Unknown"</string>
     <string name="allergies_hint" msgid="5488918780522184147">"For example, peanuts"</string>
