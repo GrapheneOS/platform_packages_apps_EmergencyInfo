@@ -104,8 +104,8 @@
     <string name="clear" msgid="3648880442502887163">"తీసివేయండి"</string>
     <string name="clear_all_message" msgid="1548432000373861295">"మొత్తం సమాచారం మరియు కాంటాక్ట్‌లను తీసివేయాలా?"</string>
     <string name="emergency_info_footer" msgid="8751758742506410146">"వైద్య సమాచారం మరియు అత్యవసర కాంటాక్ట్‌లను జోడిస్తే, అత్యవసర పరిస్థితిలో ముందుగా ప్రతిస్పందించే వారికి సహాయకరంగా ఉంటాయి.\n\nఎవరైనా సరే, మీ ఫోన్‌ని అన్‌లాక్ చేయకుండానే మీ లాక్ స్క్రీన్ నుండి ఈ సమాచారాన్ని చదవగలరు మరియు మీ కాంటాక్ట్‌ల పేర్లు ట్యాప్ చేయడం ద్వారా వారికి కాల్ చేయగలరు."</string>
-    <string name="settings_suggestion_title" msgid="2503369576806243476">"అత్యవసర సమాచారాన్ని జోడించండి"</string>
-    <string name="settings_suggestion_body" msgid="5559349261345837716">"మీ సమాచారాన్ని మొదటగా ప్రతిస్పందించే వారిని చూడనివ్వండి"</string>
+    <string name="settings_suggestion_title" msgid="2503369576806243476">"ఎమర్జెన్సీ సమాచారాన్ని జోడించండి"</string>
+    <string name="settings_suggestion_body" msgid="5559349261345837716">"ఎమర్జెన్సీలో సాయం చేసే వారికి, మీ సమాచారం కనబడుతుంది"</string>
     <string name="user_image_take_photo" msgid="2779924488370750102">"ఫోటోను తీయి"</string>
     <string name="user_image_choose_photo" msgid="2442095378052415700">"చిత్రాన్ని ఎంచుకోండి"</string>
     <string name="user_image_photo_selector" msgid="8941966433899876760">"ఫోటోను ఎంచుకోండి"</string>
