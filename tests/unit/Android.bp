@@ -19,7 +19,7 @@ package {
 
 android_test {
     name: "EmergencyInfoUnitTests",
-    libs: ["android.test.runner"],
+    libs: ["android.test.runner.stubs.system"],
     static_libs: [
         "androidx.test.rules",
         "emergencyinfo-test-common",
