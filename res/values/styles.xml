@@ -19,6 +19,7 @@
         <item name="tabIndicatorColor">@color/accent_color_dark</item>
         <item name="textColorActionBar">?android:attr/textColorPrimary</item>
         <item name="preferenceTheme">@style/PreferenceTheme</item>
+        <item name="android:windowOptOutEdgeToEdgeEnforcement">true</item>
     </style>
 
     <!-- Base emergency theme. -->
@@ -29,6 +30,7 @@
         <item name="textColorActionBar">@color/tab_text_color</item>
         <item name="tabIndicatorColor">@color/emergency_accent</item>
         <item name="preferenceTheme">@style/PreferenceTheme</item>
+        <item name="android:windowOptOutEdgeToEdgeEnforcement">true</item>
     </style>
 
     <!-- Base emergency theme. -->
